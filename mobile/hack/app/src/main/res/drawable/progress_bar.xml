@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Серый фон -->
+    <item android:id="@android:id/background">
+        <shape>
+            <solid android:color="@color/blood" />
+            <corners android:radius="50dp" />
+        </shape>
+    </item>
+
+    <!-- Зеленая заливка (по умолчанию на 0%) -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <solid android:color="@color/green" />
+                <corners android:radius="50dp" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

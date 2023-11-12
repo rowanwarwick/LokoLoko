@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hack</string>
+    <string name="preparing">Выполняется загрузка</string>
+    <string name="ready">Загрузка завершена</string>
+    <string name="failed">Ошибка</string>
+    <string name="say_something">Можете говорить</string>
+    <string name="testing_mode">Традиционное тестирование</string>
+    <string name="testing_gamedev">Режим GameDev</string>
+    <string name="end_time">Время вышло</string>
+    <string name="timer">00:00:00</string>
+    <string name="result">Ваши результаты</string>
+</resources>

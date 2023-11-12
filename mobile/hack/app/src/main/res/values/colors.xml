@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mic_enabled_color">#0E87E7</color>
+    <color name="mic_disabled_color">#6D6A6A</color>
+    <color name="rzhd">#E21A1A</color>
+    <color name="green">#44FF00</color>
+    <color name="gray_rzhd">#394A58</color>
+    <color name="error">#E21A1A</color>
+    <color name="blood">#F10D27</color>
+</resources>
